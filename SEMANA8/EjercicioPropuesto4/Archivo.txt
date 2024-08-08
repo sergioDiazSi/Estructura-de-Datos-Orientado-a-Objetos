@@ -1,0 +1,4 @@
+Hola, mi nombre es Sergio Diaz y me gusta programar.
+Hola, mi nombre es Sergio Diaz y me gusta jugar Futbol.
+Hola, mi nombre es Sergio Diaz y me gusta leer.
+Hola, mi nombre es Sergio Diaz y me gusta salir a caminar.
